@@ -21,7 +21,7 @@
 
 - 👋 Hi, I’m a < Developer />
 - 💼 I am mainly a backend engineer by trade
-- 💬 Talk to me about what proejcts I have worked on
+- 💬 Talk to me about what projects I have worked on
 - 👯 I’m looking to collaborate on interesting backend software engineering projects
 
 
