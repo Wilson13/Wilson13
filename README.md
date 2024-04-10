@@ -28,7 +28,7 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=rust,ts,js,nodejs,redis,postgres,docker,kubernetes,cloudflare,aws,gcp,git,github,bash,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,ts,js,nodejs,redis,postgres,docker,kubernetes,cloudflare,aws,gcp,git,github,bash,vscode)](https://skillicons.dev)
 <!-- [![My Skills](https://skillicons.dev/icons?i=redis,postgres,postman,vscode)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,git)](https://skillicons.dev) -->
 
