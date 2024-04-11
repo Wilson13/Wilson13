@@ -40,6 +40,9 @@
 [![My Skills](https://skillicons.dev/icons?i=rust,ts,js,nodejs,redis,postgres,kafka,docker,kubernetes,nginx,cloudflare,aws,gcp,git,github,vscode,bash,figma,notion,androidstudio,flutter,firebase,ubuntu)](https://skillicons.dev)
 
 <h3> Tech Stack </h3>
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+
   
 <!-- [![My Skills](https://skillicons.dev/icons?i=redis,postgres,docker,kubernetes)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,git)](https://skillicons.dev) -->
@@ -97,7 +100,7 @@
 </details>-->
 
 ----------------------------------------------------------------------
-Credit: [aastha12](https://github.com/aastha12)
+Credit: [aastha12](https://github.com/aastha12), [danielbellmas](https://dev.to/danielbellmas/my-current-github-profile-14m6)
 <!--
 Here are some ideas to get you started:
 
