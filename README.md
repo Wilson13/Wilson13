@@ -32,15 +32,20 @@
 <details> 
   <summary><b> Real-Time Communication System (RTCS) </b></summary>
   <br/>
-  <p>A cloud-enabling software which can be configured to run either as a websocket server or a client.</p>
+  <p>A cloud-enabling software which can be configured to run either as a WebSocket server or a client.</p>
   <h4>Server</h4>
   <p>
-      When configured to run as a server, RTCS can be deployed to a cloud instance (e.g. EC2), providing REST API services and Websocket services.
+      When configured to run as a server, RTCS can be deployed to a cloud instance (e.g. EC2), providing REST API services and WebSocket services.
       The core business backend system integrates with RTCS through REST API endpoints, remotely controlling the access control hardware located in each store.
-      RTCS listens for and maintains connections from Web Socket clients running on-premises, it triggers commands when API endpoints are called.
+      RTCS listens for and maintains connections from WebSocket clients running on-premises, it sends commands and proxy response from WebSocket clients when API endpoints are called.
   </p>
   <h4>Client</h4>
-  <p>WIP.</p>
+  <p>
+     Running as a client, RTCS connects to the WebSocket server to maintain a live and real-time duplex connection. If commands are triggered by the server, RTCS client sends corresponding commands to on-prem hardware via TCP connections and returns the results.
+  </p>
+  <h4>Diagram</h4>
+  <img src="https://github.com/Wilson13/Wilson13/assets/5605451/b14f33ef-c004-4a87-8422-37a25f8c99c5" />
+
 </details>
 
 <!-- <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> -->
