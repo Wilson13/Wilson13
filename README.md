@@ -50,7 +50,7 @@
 
 <!-- <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> -->
 ----------------------------------------------------------------------
-Credit: [aastha12](https://github.com/aastha12), [danielbellmas](https://dev.to/danielbellmas/my-current-github-profile-14m6), [Zabombey](https://dribbble.com/shots/2044702-Wasting-Time)
+Credit: [aastha12](https://github.com/aastha12), [danielbellmas](https://dev.to/danielbellmas/my-current-github-profile-14m6)
 <!--
 Here are some ideas to get you started:
 
