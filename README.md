@@ -1,35 +1,47 @@
-<h1> Hello, I'm Wilson <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+<h1> Hello, I'm Wilson <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+  <br /><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=18&vCenter=true&height=30&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer;" /></a>
+</h1>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer;" /></a>
-</p>
-
-   <a href="https://www.linkedin.com/in/wilsonow/" target="_blank">
+  <a href="https://www.linkedin.com/in/wilsonow/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
    <a href="https://stackoverflow.com/users/1414598/wilson" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a>  
-  <!--<a href="https://www.kaggle.com/aastha124" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-  </a>  
- <a href="https://www.hackerrank.com/aasthajha123/hackos" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-  </a>-->
+  </a>
+</p>
 
 - 👋 Hi, I’m a < Developer />
 - 💼 I am mainly a backend engineer by trade
 - 💬 Ask me about projects I have worked on as they are not open source
 - 👯 I’m looking to collaborate on interesting backend software engineering projects
 
+<!-- <h2> Contact </h2>
 
+<a href="https://www.linkedin.com/in/wilsonow/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+   <a href="https://stackoverflow.com/users/1414598/wilson" target="_blank">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </a> -->  
+
+<!--<a href="https://www.linkedin.com/in/wilsonow/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
+</a>
+
+<a href="https://stackoverflow.com/users/1414598/wilson" target="_blank">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&color=black">
+  </a>  -->
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=rust,ts,js,nodejs,redis,postgres,docker,kubernetes,cloudflare,aws,gcp,git,github,bash,vscode)](https://skillicons.dev)
-<!-- [![My Skills](https://skillicons.dev/icons?i=redis,postgres,postman,vscode)](https://skillicons.dev)
+<h3> Overview </h3>
+
+[![My Skills](https://skillicons.dev/icons?i=rust,ts,js,nodejs,redis,postgres,kafka,docker,kubernetes,nginx,cloudflare,aws,gcp,git,github,vscode,bash,figma,notion,androidstudio,flutter,firebase,ubuntu)](https://skillicons.dev)
+
+<h3> Tech Stack </h3>
+  
+<!-- [![My Skills](https://skillicons.dev/icons?i=redis,postgres,docker,kubernetes)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,git)](https://skillicons.dev) -->
 
 <!-- <a href="https://www.java.com" target="_blank"> 
@@ -86,13 +98,7 @@
 
 ----------------------------------------------------------------------
 Credit: [aastha12](https://github.com/aastha12)
-
-Last Edited on: 19/10/2021
-<!-- ### Hi there 👋 -->
-
 <!--
-**Wilson13/Wilson13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
