@@ -46,6 +46,9 @@
   <h4>Diagram</h4>
   <img src="https://github.com/Wilson13/Wilson13/assets/5605451/b14f33ef-c004-4a87-8422-37a25f8c99c5" />
 
+  <h4>TODO</h4>
+  - Automatic Client Reconnection.
+  - Monitoring Dashboard.
 </details>
 
 <!-- <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> -->
