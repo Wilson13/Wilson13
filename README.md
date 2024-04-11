@@ -16,23 +16,6 @@
 - 💬 Ask me about projects I have worked on as they are not open source
 - 👯 I’m looking to collaborate on interesting backend software engineering projects
 
-<!-- <h2> Contact </h2>
-
-<a href="https://www.linkedin.com/in/wilsonow/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
-   <a href="https://stackoverflow.com/users/1414598/wilson" target="_blank">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a> -->  
-
-<!--<a href="https://www.linkedin.com/in/wilsonow/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
-</a>
-
-<a href="https://stackoverflow.com/users/1414598/wilson" target="_blank">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&color=black">
-  </a>  -->
-
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <h3> Overview </h3>
@@ -43,64 +26,26 @@
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
 
-  
-<!-- [![My Skills](https://skillicons.dev/icons?i=redis,postgres,docker,kubernetes)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,git)](https://skillicons.dev) -->
+<h2> Recent Work </h2>
 
-<!-- <a href="https://www.java.com" target="_blank"> 
-    <img alt="Rust" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  </a>
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-   <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  </a>
-   <a href="https://keras.io/" target="_blank">
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
-  </a>
-   <a href="https://numpy.org/" target="_blank">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  </a>
-   <a href="https://pandas.pydata.org/" target="_blank">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  </a>
-   <a href="https://plotly.com/" target="_blank">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
-  </a>
-   <a href="https://streamlit.io/" target="_blank">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
-  </a>
-<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
-   <a href="https://opencv.org/" target="_blank">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
-  </a>
-   <a href="https://www.selenium.dev/" target="_blank">
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-  </a>
-   <a href="https://jupyter.org/" target="_blank">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-  </a>
-<a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
-<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
-<a href="https://www.flask.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a> -->
-
-<!--<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
-
+<h3> Unmmaned Tech Store </h3>
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b> Real-Time Communication System (RTCS) </b></summary>
   <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aastha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aastha12&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aastha12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
-  <br/>
+  <p>A cloud-enabling software which can be configured to run either as a websocket server or a client.</p>
+  <h4>Server</h4>
+  <p>
+      When configured to run as a server, RTCS can be deployed to a cloud instance (e.g. EC2), providing REST API services and Websocket services.
+      The core business backend system integrates with RTCS through REST API endpoints, remotely controlling the access control hardware located in each store.
+      RTCS listens for and maintains connections from Web Socket clients running on-premises, it triggers commands when API endpoints are called.
   </p>
-</details>-->
+  <h4>Client</h4>
+  <p>WIP.</p>
+</details>
 
+<!-- <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> -->
 ----------------------------------------------------------------------
-Credit: [aastha12](https://github.com/aastha12), [danielbellmas](https://dev.to/danielbellmas/my-current-github-profile-14m6)
+Credit: [aastha12](https://github.com/aastha12), [danielbellmas](https://dev.to/danielbellmas/my-current-github-profile-14m6), [Zabombey](https://dribbble.com/shots/2044702-Wasting-Time)
 <!--
 Here are some ideas to get you started:
 
