@@ -1,3 +1,7 @@
+
+
+---
+
 <h1> Hello, I'm Wilson <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
   <br /><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=18&vCenter=true&height=30&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer;" /></a>
 </h1>
@@ -15,6 +19,7 @@
 - 💼 I am mainly a backend engineer by trade
 - 💬 Ask me about projects I have worked on as they are not open source
 - 👯 I’m looking to collaborate on interesting backend software engineering projects
+- 📷 I take photographs for the fun of it.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -53,4 +58,12 @@
 
 <!-- <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> -->
 ----------------------------------------------------------------------
+
 Credit: [aastha12](https://github.com/aastha12), [danielbellmas](https://dev.to/danielbellmas/my-current-github-profile-14m6)
+
+<b> Photographs </b>
+
+<details>
+  <summary>Outram Park</summary>
+  <img src="https://github.com/Wilson13/Wilson13/assets/5605451/66a0e6ba-7b53-43ee-b926-35743781dc6e" width=500px />
+</details>
