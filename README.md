@@ -60,10 +60,3 @@
 ----------------------------------------------------------------------
 
 Credit: [aastha12](https://github.com/aastha12), [danielbellmas](https://dev.to/danielbellmas/my-current-github-profile-14m6)
-
-<b> Photographs </b>
-
-<details>
-  <summary>Outram Park</summary>
-  <img src="https://github.com/Wilson13/Wilson13/assets/5605451/66a0e6ba-7b53-43ee-b926-35743781dc6e" width=500px />
-</details>
